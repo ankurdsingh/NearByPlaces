@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Restaurant Nearby</string>
+<!--
+    <string name="google_maps_api">AIzaSyDb86sCFRClayL3zS4PUqICf5Qm5HB-toA</string>
+-->
+    <string name="google_maps_api">AIzaSyA9dJO5ECYPXpimioJPra0rzmSAfBPMsEQ</string>
+
+    <string name="title_location_permission">Required Permission</string>
+    <string name="permission_granted">Permission granted</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="permission_already_granted">Permission already granted</string>
+    <string name="text_location_permission">In Order to work this application location permission is required.</string>
+    <string name="unable_to_get_location">Unable to get last location</string>
+
+</resources>
